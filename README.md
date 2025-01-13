@@ -53,9 +53,8 @@ A responsive and interactive slider component built using **HTML**, **CSS**, **J
 - **Performance Boost**: Implement lazy loading for images to improve performance.  
 
 ---
-
 ## 🌍 Live Demo  
-Check out the live demo [here](#).
+Check out the live demo [here](https://sunil4472.github.io/Task-A---Slider-Component/).
 
 ---
 
