@@ -54,7 +54,7 @@ A responsive and interactive slider component built using **HTML**, **CSS**, **J
 
 ---
 ## 🌍 Live Demo  
-Check out the live demo [here](https://sunil4472.github.io/Task-A---Slider-Component/).
+Check out the live demo [here](https://task-a-slider-component.vercel.app/).
 
 ---
 
