@@ -69,5 +69,5 @@ Check out the live demo [here](https://task-a-slider-component.vercel.app/).
 
 ---
 
-## 🖱️ Button for Task B  
-[Click here to view Task B](https://github.com/sunil4472/Interactive-Form-Builder)
+## 🖱️ Button for Task C  
+[Click here to view Task C](https://github.com/sunil4472/Interactive-Form-Builder)
